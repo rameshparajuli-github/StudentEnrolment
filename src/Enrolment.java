@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//Enrolment Class
 public class Enrolment {
     // Private attributes
     private Student student;
