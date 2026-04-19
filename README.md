@@ -27,5 +27,5 @@ This was developed as part of ITS206 - Software Construction and Design.
 - Git & GitHub
 
 ## Author
-Your Name
+Ramesh Parajuli
 ITS206 - National Academy of Professional Studies
