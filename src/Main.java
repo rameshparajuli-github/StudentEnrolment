@@ -39,8 +39,8 @@ public class Main {
         if (e2 != null) enrolments.add(e2);
 
 
-        // ODD STUDENT ID EXTENSION
-        // Waitlist
+
+        // Waitlist ODD STUDENT ID EXTENSION
 
         System.out.println(" WAITLIST SYSTEM ");
         Enrolment e3 = Enrolment.createEnrolmentWithWaitlist(student3, course1, "2026-04-19");
