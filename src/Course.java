@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//Course Class
 public class Course {
     // Private attributes
     private String courseCode;
