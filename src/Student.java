@@ -1,3 +1,4 @@
+// Student class - represents a student in the enrolment system
 public class Student {
     // Private attributes for encapsulation
     private String studentId;
