@@ -26,7 +26,7 @@ public class Main {
         course2.displayCourseDetails();
         System.out.println();
 
-        // Store enrolments
+        // Store enrolments Arraylist
         ArrayList<Enrolment> enrolments = new ArrayList<>();
 
 
