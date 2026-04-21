@@ -1,6 +1,6 @@
 //import java.util.arraylist
 import java.util.ArrayList;
-//Course Class
+// Course class - represents a course with waitlist support
 public class Course {
     // Private attributes
     private String courseCode;
