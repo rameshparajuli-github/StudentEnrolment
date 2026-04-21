@@ -12,14 +12,14 @@ public class Main {
         Course course1 = new Course("IT101", "Introduction to Programming", 2);
         Course course2 = new Course("IT201", "Object Oriented Programming", 1);
 
-        // Display students
+        // Display students details
         System.out.println(" STUDENT INFORMATION ");
         student1.displayStudentInfo();
         System.out.println();
         student2.displayStudentInfo();
         System.out.println();
 
-        // Display courses
+        // Display courses details
         System.out.println(" COURSE DETAILS ");
         course1.displayCourseDetails();
         System.out.println();

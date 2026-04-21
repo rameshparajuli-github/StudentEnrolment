@@ -1,3 +1,4 @@
+//import java.util.arraylist
 import java.util.ArrayList;
 //Course Class
 public class Course {
@@ -18,7 +19,7 @@ public class Course {
 
     }
 
-    // Getters and setters
+    // Getters and setters use
     public String getCourseCode() {
         return courseCode;
     }
@@ -78,7 +79,7 @@ public class Course {
         waitlist.add(student);
     }
 
-    // Display waitlist
+    // Display waitlist data
     public void displayWaitlist() {
         System.out.println("Waitlist for " + courseName + ":");
         if (waitlist.isEmpty()) {
