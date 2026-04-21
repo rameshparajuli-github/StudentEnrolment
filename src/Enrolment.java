@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-//Enrolment Class
+// Enrolment class - links a Student to a Course with waitlist feature
 public class Enrolment {
     // Private attributes
     private Student student;
