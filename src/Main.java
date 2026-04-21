@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-//Student Enrolment System
+// Main class - demonstrates the Student Enrolment System
 public class Main {
     public static void main(String[] args) {
 
