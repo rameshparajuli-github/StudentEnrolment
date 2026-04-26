@@ -15,11 +15,9 @@ public class Main {
         // Display students details
         System.out.println(" STUDENT INFORMATION ");
         student1.displayStudentInfo();
-// Add a separator line in displayStudentInfo()
-        System.out.println("------------------------------");;
+
         student2.displayStudentInfo();
-// Add a separator line in displayStudentInfo()
-        System.out.println("------------------------------");
+
 
         // Display courses details
         System.out.println(" COURSE DETAILS ");

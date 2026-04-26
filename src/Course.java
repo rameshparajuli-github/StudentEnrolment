@@ -80,7 +80,7 @@ public class Course {
     public void addToWaitlist(Student student) {
         waitlist.add(student);
     }
-//---Display Waitlist this is my task
+
     // Display waitlist data
     public void displayWaitlist() {
         System.out.println("Waitlist for " + courseName + ":");
